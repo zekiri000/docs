@@ -1,4 +1,4 @@
----
+---content/search/index.md
 title: Search
 hidden: true
 versions:
